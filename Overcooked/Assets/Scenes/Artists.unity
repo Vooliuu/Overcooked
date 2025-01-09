@@ -709,6 +709,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: M6BO_3D_mes_FIX
       objectReference: {fileID: 0}
+    - target: {fileID: 1687314696327832875, guid: a3bf99181b00fe74796ef77b2194013c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ad48bf9670902f44e915033d0e276242, type: 2}
+    - target: {fileID: 2668579479181016555, guid: a3bf99181b00fe74796ef77b2194013c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 96bec1a5c08a5b74d84e2932128968fc, type: 2}
+    - target: {fileID: 7518109182203623404, guid: a3bf99181b00fe74796ef77b2194013c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2b33e2c625de9664b91ed88587873658, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
